@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# Watch demo https://superchat-ntb.web.app/
+Google authentication requiered. Using Firebase as a server and database (https://firebase.google.com/) 
+
 ## Available Scripts
 
 In the project directory, you can run:
