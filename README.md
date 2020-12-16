@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Watch demo https://superchat-ntb.web.app/
 Google authentication requiered. Using Firebase as a server and database (https://firebase.google.com/) 
 
+
+## Date of creation 
+  21th October, 2020.
+
 ## Available Scripts
 
 In the project directory, you can run:
